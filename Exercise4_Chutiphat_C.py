@@ -1,0 +1,10 @@
+a = float(input("Foundation English :"))
+b = float(input("Genaral Business :"))
+c = float(input("Introduction to Computer Systems :"))
+d = float(input("Computer Programming :"))
+
+print("--- Your Score ---")
+print("Foundation English :",a)
+print("Genaral Business :",b)
+print("Introduction to Computer Systems :",c)
+print("Computer Programming :",d)
